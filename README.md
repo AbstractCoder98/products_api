@@ -18,7 +18,7 @@ Django Rest API for products creation, listing, update and removal
 2. Navigate to the project directory:
 
     ```bash
-    cd your-django-api
+    cd products_api
     ```
 
 3. Create virtual environment:
